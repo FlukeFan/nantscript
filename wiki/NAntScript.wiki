@@ -1,4 +1,4 @@
-#summary NAntScript - A custom NAnt task to allow scripting of other custom NAnt tasks.
+#summary NAntScript - A custom NAnt task to allow scripting new tasks.
 
 = Introduction =
 
@@ -6,5 +6,5 @@ NAntScript allows you to script new custom tasks using regular NAnt tasks (no C#
 
 = Details =
 
-
+Here's why we wrote it: 
 
