@@ -6,5 +6,4 @@ NAntScript allows you to script new custom tasks using regular NAnt tasks (no C#
 
 = Details =
 
-Here's why we wrote it: 
-
+Here's why we wrote it:  http://broloco.blogspot.com/2007/01/nantscript.html
