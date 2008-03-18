@@ -1,4 +1,5 @@
 #summary NAntScript - A custom NAnt task to allow scripting new tasks.
+#labels Featured
 
 = Introduction =
 
