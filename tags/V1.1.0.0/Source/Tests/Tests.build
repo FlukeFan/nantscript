@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<project name="Tests" default="none">
+
+    <target name="build">
+
+        <loadtasks assembly="${build.dir}/bin/broloco.NAntTasks.dll" />
+
+        <nant buildfile="Test_SingleScript.build" />
+
+        <nant buildfile="Test_MultipleScript.build" />
+
+        <nant buildfile="Test_Namespace.build" />
+
+    </target>
+
+
+    <target name="clean">
+
+    </target>
+
+
+</project>
